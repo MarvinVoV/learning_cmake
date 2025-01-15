@@ -1,6 +1,0 @@
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/CMakeFiles/main.dir
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/CMakeFiles/edit_cache.dir
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/CMakeFiles/rebuild_cache.dir
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/lib/CMakeFiles/mylib.dir
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/lib/CMakeFiles/edit_cache.dir
-/Users/sunyameng/github/learning_cmake/MultiModuleProject/build/lib/CMakeFiles/rebuild_cache.dir
