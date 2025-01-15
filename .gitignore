@@ -1,5 +1,5 @@
 # 编译生成的文件和目录
-/build/
+**/build/
 /CMakeFiles/
 CMakeCache.txt
 
