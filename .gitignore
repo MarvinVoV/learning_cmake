@@ -1,0 +1,42 @@
+# 编译生成的文件和目录
+/build/
+/CMakeFiles/
+CMakeCache.txt
+
+# 依赖库和包管理器相关的文件
+/install/
+/external/
+
+# 编辑器和IDE特定的文件
+*.swp
+*.swo
+*.swn
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# CMake生成的文件
+cmake_install.cmake
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+
+# 其他临时文件
+*.bak
+*.tmp
+
+# 特定于平台的编译产物
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+# Visual Studio 文件
+*.sln
+*.vcxproj*
+*.vcproj*
+*.filters
+*.user

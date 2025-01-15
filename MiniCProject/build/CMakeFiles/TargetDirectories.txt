@@ -1,0 +1,3 @@
+/Users/sunyameng/github/learning_cmake/MiniCProject/build/CMakeFiles/MiniCProject.dir
+/Users/sunyameng/github/learning_cmake/MiniCProject/build/CMakeFiles/edit_cache.dir
+/Users/sunyameng/github/learning_cmake/MiniCProject/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/sunyameng/github/learning_cmake/BasicCProject/build/CMakeFiles/BasicCProject.dir
+/Users/sunyameng/github/learning_cmake/BasicCProject/build/CMakeFiles/edit_cache.dir
+/Users/sunyameng/github/learning_cmake/BasicCProject/build/CMakeFiles/rebuild_cache.dir
